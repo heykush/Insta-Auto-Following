@@ -1,6 +1,8 @@
 # Insta-Auto-following
 Bot which follow people for you automatically on Insta 
 
+![Screenshot](https://github.com/heykush/Insta-Auto-Following/blob/master/Instagram%20-%20Google%20Chrome%2022-05-2020%2010_02_54.png?raw=true)
+
  ## Install Module
 - pip install `selenium`
 - pip install `time`
