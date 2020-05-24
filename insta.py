@@ -1,7 +1,7 @@
 from selenium import webdriver
 from getpass import getpass
 from time import sleep
-driver=webdriver.Chrome(r"C:\Python\chromedriver.exe")
+driver=webdriver.Chrome()        #Give the path of chromedriver
 driver.maximize_window()
 driver.get('https://instagram.com')
 sleep(1)
