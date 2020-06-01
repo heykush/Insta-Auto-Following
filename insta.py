@@ -14,8 +14,6 @@ pas=driver.find_element_by_xpath('//input[@name="password"]').send_keys(pwd)
 log=driver.find_element_by_xpath('//*[@id="react-root"]/section/main/article/div[2]/div[1]/div/form/div[4]').click()
 sleep(2)
 pop=driver.find_element_by_xpath('//button[(text()="Not Now")]').click()
-sleep(2)
-pop=driver.find_element_by_xpath('//button[(text()="Not Now")]').click()
 
 s=input("search for the person: ")
 sleep(1)
