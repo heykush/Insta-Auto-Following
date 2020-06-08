@@ -18,7 +18,6 @@ sleep(2)
 pop=driver.find_element_by_xpath('//button[(text()="Not Now")]').click()
 
 
-
 def follow():
     s=input("search for the person: ")
     sleep(1)
