@@ -7,7 +7,7 @@ Bot to Follow People Automatically on Insta :fire:
 
 ## DEMO
 ![DEMO](https://github.com/heykush/Insta-Auto-Following/blob/master/ezgif.com-gif-maker.gif?raw=true)
- ## Install Modules
+ ## Install Module
 - pip install `selenium`
 - pip install `time`
 
